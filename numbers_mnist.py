@@ -1,5 +1,4 @@
 import tensorflow as tf
-import tensorflow.keras as keras
 
 # Load the MNIST dataset
 mnist = tf.keras.datasets.mnist
